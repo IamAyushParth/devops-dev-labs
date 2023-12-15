@@ -61,7 +61,7 @@ PS C:\External Datastore> vagrant halt
 ==> default: Attempting graceful shutdown of VM...
 PS C:\External Datastore> vagrant destroy
     default: Are you sure you want to destroy the 'default' VM? [y/N] y
-==> default: Destroying VM and associated drives...
+==> default: Destroying VM and associated drives..
 
 
    
