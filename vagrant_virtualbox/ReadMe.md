@@ -30,7 +30,7 @@ Ref Blog: https://sites.duke.edu/compsci316_01_f2016/help/vbvagrant/
     box: Downloading: https://vagrantcloud.com/ubuntu/boxes/focal64/versions/20231207.0.0/providers/virtualbox/unknown/vagrant.box
 Download redirected to host: cloud-images.ubuntu.com
     box:
-==> box: Successfully added box 'ubuntu/focal64' (v20231207.0.0) for 'virtualbox'!
+==> box: Successfully added box 'ubuntu/focal64' (v20231207.0.0) for 'virtualbox'
 
 4.3 : vagrant plugin install vagrant-vbguest
 
