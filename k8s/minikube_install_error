@@ -1,0 +1,15 @@
+[root@devops-monk ~]# minikube status
+E0104 20:48:40.633790   14281 status.go:415] kubeconfig endpoint: extract IP: "minikube" does not appear in /root/.kube/config
+minikube
+type: Control Plane
+host: Running
+kubelet: Stopped
+apiserver: Stopped
+kubeconfig: Misconfigured
+
+
+WARNING: Your kubectl is pointing to stale minikube-vm.
+To fix the kubectl context, run `minikube update-context`
+[root@devops-monk ~]# minikube update-context
+* "minikube" context has been updated to point to 192.168.49.2:8443
+* Current context is "minikube"
