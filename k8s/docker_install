@@ -1,0 +1,6 @@
+user1@my-server:~$  sudo usermod -aG docker user1
+user1@my-server:~# cat /etc/group | grep docker
+
+chmod 666 /var/run/docker.sock
+
+  
